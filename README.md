@@ -1,4 +1,4 @@
-# 2400090010-FSADlabexam
+# 2400090010-FSADskillexam
 package com.klef.fsad.exam.model;
 
 import jakarta.persistence.Entity;
